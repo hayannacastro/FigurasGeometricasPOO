@@ -1,4 +1,4 @@
-# Exercícios de Figuras Geométricas 🔵🟧▲
+# Exercícios de Figuras Geométricas 
 Este repositório contém uma pasta dedicada aos exercícios sobre figuras geométricas. Os exercícios abordam conceitos fundamentais como:
 
 Identificação de formas geométricas (triângulo, quadrado, retângulo, círculo, etc.)
